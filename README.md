@@ -8,5 +8,5 @@ Team Members:
 2) Kanishk Mankani  ( Kaggle ID: https://www.kaggle.com/kanishkmankani )
 
 
-LINK TO THE NOTEBOOK (Google Collab) : https://colab.research.google.com/drive/1roufvUcw6EdZpR8KWjllAKB784ne_tRC?usp=sharing 
+LINK TO THE NOTEBOOK (Google Collab) : https://colab.research.google.com/drive/1roufvUcw6EdZpR8KWjllAKB784ne_tRC?usp=sharing
 

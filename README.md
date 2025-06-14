@@ -1,7 +1,7 @@
 # IEEE_Burnout_datathon_2025
 This repository includes the Notebook which would provide answer and the approach of reaching the least RMSE possible from the dataset provided by IEEE Burnout Datathon organisers on 14th June, 2025. 
 
-Team Name: RevOps 
+#Team Name: RevOps 
 
 Team Members: 
 1) Rishit Mahapatra ( Kaggle ID: https://www.kaggle.com/rishitmahapatra )   
